@@ -1,5 +1,9 @@
 #Employee Management System
+
+
 -Introduction
+
+
 This is a simple Employee Management System implemented using Django. The system allows you to perform basic operations such as viewing all employees, 
 adding a new employee, removing an employee, and filtering employees based on name, department, and role.
 
