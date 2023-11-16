@@ -1,6 +1,6 @@
 # Employee Management System
 1. Summary
-The Employee Management System is a Python and Django-based mini project designed to streamline the management of employee information within an organization.
+- The Employee Management System is a Python and Django-based mini project designed to streamline the management of employee information within an organization.
 It allows users to add, delete, update, and view employee details, providing a centralized database for efficient personnel management.
 
 2. Uses
